@@ -1,0 +1,32 @@
+/***********************************************************************
+ * COSC1076 - Advanced Programming Techniques
+ * Semester 2 2016 Assignment #2
+ * Full Name        : HAN LIANG ALVIN SEE
+ * Student Number   : S3557766
+ * Course Code      : COSC1076
+ * Program Code     : BP094
+ * Start up code provided by Paul Miller
+ ***********************************************************************/
+ 
+ /* This file is for you to provide any extra information that your 
+ markers may find useful. For example. Bugs, inconsistencies, incomplete
+ functionality, reasoning for design choices etc. */
+
+/*I've altered enum denomination to take on specific values
+FIVE_CENTS = 5
+TEN_CENTS = 10
+TWENTY_CENTS = 20
+FIFTY_CENTS = 50
+ONE_DOLLAR = 100
+TWO_DOLLARS = 200
+FIVE_DOLLARS = 500
+TEN_DOLLARS = 1000
+Read the FAQ too late and did not have time to revert the changes
+
+Furthermore was not able to complete invalidcoins4.dat requirement
+
+Other than that everything should be working (dont want to jinx it)
+My testing showed no memory leak problems or memory abuses
+
+Not sure how to set up requirement13.txt and just copy paste the session
+on terminal*/
